@@ -1,0 +1,3 @@
+Select Movie_name
+From Movies
+where Actor == "Prabhas";
